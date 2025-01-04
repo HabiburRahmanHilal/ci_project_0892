@@ -1,0 +1,137 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Is there anything I can help you."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Nice Meeting you, hope I see you back soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!",
+                    "Any time!",
+                    "My pleasure",
+                    "Never mention, I am more thankful you contacted us.",
+                    "Sure! You can contact us anytime."
+                    ]
+    },
+    {
+      "tag": "activities",
+      "patterns": [
+        "What activities are available in CPC?",
+        "What events does CPC organize?",
+        "Tell me about CPC activities",
+        "What can I participate in at CPC?",
+        "Are there any workshops or events at CPC?"
+      ],
+      "responses": [
+        "CPC Community organizes workshops, seminars, coding competitions, and networking events for students.",
+        "You can participate in hackathons, study groups, and mentoring sessions organized by CPC.",
+        "We host career counseling, project showcases, and technical meetups for university students.",
+        "CPC offers a variety of activities including skill development sessions and student-led initiatives."
+      ]
+    },
+    {
+      "tag": "membership",
+      "patterns": [
+        "How can I join CPC?",
+        "Can I become a member of CPC?",
+        "What are the requirements for joining CPC?",
+        "Is CPC membership open to all students?",
+        "How do I register for CPC?"
+      ],
+      "responses": [
+        "To join CPC Community, fill out the membership form available on our website or contact the CPC representative in your department.",
+        "Membership is open to all UET Peshawar students. Just register online or visit our campus office.",
+        "You can join CPC by attending our orientation session or signing up through the online portal.",
+        "Joining CPC is easy! Contact us for the membership form or check our social media page for the registration link."
+      ]
+    },
+    {
+      "tag": "events",
+      "patterns": [
+        "What are the upcoming CPC events?",
+        "Tell me about CPC's next event",
+        "When is the next CPC workshop?",
+        "Are there any events this week?",
+        "What events are happening at CPC?"
+      ],
+      "responses": [
+        "Our next event is a coding workshop scheduled for Saturday. Details will be shared on our social media.",
+        "We are organizing a seminar on AI and Machine Learning this Friday. Don't miss it!",
+        "Upcoming CPC events include a networking meetup and a competitive programming session.",
+        "Check out our calendar for this week's events, including tech talks and community gatherings."
+      ]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "Does CPC provide support for projects?",
+        "Can CPC help with career guidance?",
+        "What kind of support does CPC offer?",
+        "Does CPC assist in academic activities?",
+        "Can CPC help me improve my coding skills?"
+      ],
+      "responses": [
+        "CPC offers support for academic and personal projects through mentoring and peer collaboration.",
+        "We provide career guidance, skill-building workshops, and resources to enhance your coding expertise.",
+        "Our members can access project resources, expert advice, and study materials.",
+        "CPC is here to support you with workshops, coding bootcamps, and mentorship programs."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is CPC located?",
+        "Where can I find the CPC office?",
+        "What is the location of CPC in UET Peshawar?",
+        "How do I visit CPC?",
+        "Where is the CPC meeting room?"
+      ],
+      "responses": [
+        "CPC Community is located in the IT Block, Room 102, UET Peshawar.",
+        "Our office is in the main campus IT Block. Drop by for more details!",
+        "You can find CPC in the IT Block near the main library of UET Peshawar.",
+        "Visit us at the IT Block, Room 102, during working hours."
+      ]
+    }
+    
+      ],
+      "responses": [
+        "The Culinary Haven offers a wide variety of delicious dishes, including vegan and gluten-free options.",
+        "We are known for our cozy ambiance and excellent customer service.",
+        "The Culinary Haven has been serving customers for over 10 years with a focus on quality and taste.",
+        "We offer a diverse menu that includes both traditional and contemporary dishes.",
+        "Our chefs use fresh, locally-sourced ingredients to create amazing meals.",
+        "We pride ourselves on our friendly staff and welcoming atmosphere.",
+        "The Culinary Haven is a perfect place for family dinners, romantic dates, and special occasions.",
+        "We have a unique blend of flavors that you won't find anywhere else.",
+        "Our mission is to provide a delightful dining experience for all our guests.",
+        "We offer a range of beverages, including fine wines and craft beers, to complement your meal."
+      ]
+    }
+  
+
